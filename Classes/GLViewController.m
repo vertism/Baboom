@@ -1,19 +1,3 @@
-/*
-game ideas
-reveal photo 
- 
-achievement ideas
-
-75% exactly
-80%+
-85%+
-90%+
-95%+
-win in 1
-win in 10+ lines
-cover exactly 50%
-
- */
 #import <AVFoundation/AVFoundation.h>
 #import "GLViewController.h"
 #import "ConstantsAndMacros.h"
