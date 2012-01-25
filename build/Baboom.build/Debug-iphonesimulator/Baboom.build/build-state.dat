@@ -1,0 +1,1423 @@
+TBaboom
+v7
+r0
+t292492373.943641
+cCheck dependencies
+cProcessInfoPlistFile /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist Info.plist
+cCompileXIB /Users/pepler/Dropbox/Dev/Baboom/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Baboom.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/Baboom.app/main.m4a Sound/main.m4a
+cProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o /Users/pepler/Dropbox/Dev/Baboom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o /Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o /Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o /Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o /Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom normal i386
+cGenerateDSYMFile /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+cTouch /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B752B2B00000000000000EE
+t1265969963
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001DD70
+t1242279280
+s122224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E4270
+t1242279476
+s934512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B91872D00000000000000EE
+t1267828525
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B4DF500000000000120D0
+t1261129205
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B4DEF00000000000000EB
+t1261129199
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5307000000000000094F
+t1261130503
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B53070000000000000A61
+t1261130503
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B53070000000000009369
+t1261130503
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B53070000000000002A42
+t1261130503
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B532D000000000001F8E0
+t1261130541
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/pepler/Documents/Baboom/BaboomPrefix.pch
+c000000004A0C6CA200000000000000C3
+t1242328226
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.h
+c000000004BA40309000000000000010F
+t1269039881
+s271
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m
+c000000004BAA64390000000000000282
+t1269457977
+s642
+i"BaboomAppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Documents/Baboom/Classes/ConstantsAndMacros.h
+c000000004BA7EAFE000000000000032C
+t1269295870
+s812
+
+N/Users/pepler/Documents/Baboom/Classes/GLView.h
+c000000004BA404F900000000000002CB
+t1269040377
+s715
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pepler/Documents/Baboom/Classes/GLView.m
+c000000004BAAA857000000000000102B
+t1269475415
+s4139
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Documents/Baboom/Classes/GLViewController.h
+c000000004BABF1FE000000000000039F
+t1269559806
+s927
+i<UIKit/UIKit.h>
+i"GLView.h"
+
+N/Users/pepler/Documents/Baboom/Classes/GLViewController.m
+c000000004BABF64300000000000033EF
+t1269560899
+s13295
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Users/pepler/Documents/Baboom/Classes/OpenGLCommon.h
+c000000004BA405070000000000005B9E
+t1269040391
+s23454
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.h
+c000000004BA404FC000000000000018C
+t1269040380
+s396
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m
+c000000004BA405030000000000000C4A
+t1269040387
+s3146
+i"OpenGLTexture3D.h"
+
+N/Users/pepler/Documents/Baboom/Classes/___PROJECTNAMEASIDENTIFIER___AppDelegate.h
+c000000004A2FBCEB00000000000001EC
+t1244642539
+s492
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Documents/Baboom/Classes/___PROJECTNAMEASIDENTIFIER___AppDelegate.m
+c000000004A2FC1C80000000000000376
+t1244643784
+s886
+i"___PROJECTNAMEASIDENTIFIER___AppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Documents/Baboom/MainWindow.xib
+c000000004BA4042C00000000000055BE
+t1269040172
+s21950
+
+N/Users/pepler/Documents/Baboom/___PROJECTNAMEASIDENTIFIER____Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList
+c000000004BA9C6730000000000000256
+t1269417587
+s598
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+t1269457978
+s19776
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+t1269475415
+s21356
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+t1269560249
+s65600
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+t1269294877
+s16280
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/___PROJECTNAMEASIDENTIFIER___AppDelegate.o
+t2
+s0
+
+N/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+t1269294876
+s5940
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+t1269560249
+s204
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+t1269560249
+s102
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+t1269560249
+s49788
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+t1269039911
+s558
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/MainWindow.nib
+t1269210140
+s1707
+
+N/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo
+t1269039911
+s8
+
+N/Users/pepler/Documents/Baboom/main.m
+c000000004A0C6CA20000000000000187
+t1242328226
+s391
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch
+c000000004A0C6CA200000000000000C3
+t1242328226
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.h
+c000000004BA40309000000000000010F
+t1269039881
+s271
+i<UIKit/UIKit.h>
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m
+c000000004BAA64390000000000000282
+t1269457977
+s642
+i"BaboomAppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/ConstantsAndMacros.h
+c000000004BC24640000000000000032C
+t1271023168
+s812
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.h
+c000000004BBC907E00000000000002CD
+t1270648958
+s717
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m
+c000000004BBD0234000000000000102A
+t1270678068
+s4138
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.h
+c000000004BBF9F3C0000000000000474
+t1270849340
+s1140
+i<UIKit/UIKit.h>
+i"GLView.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m
+c000000004BCCA844000000000000419C
+t1271703620
+s16796
+i<AVFoundation/AVFoundation.h>
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLCommon.h
+c000000004BA405070000000000005B9E
+t1269040391
+s23454
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.h
+c000000004BA404FC000000000000018C
+t1269040380
+s396
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m
+c000000004BA405030000000000000C4A
+t1269040387
+s3146
+i"OpenGLTexture3D.h"
+
+N/Users/pepler/Dropbox/Dev/Baboom/MainWindow.xib
+c000000004BA4042C00000000000055BE
+t1269040172
+s21950
+
+N/Users/pepler/Dropbox/Dev/Baboom/Sound/main.m4a
+c000000004BBB33D700000000000BF397
+t1270559703
+s783255
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList
+c000000004BBF9EF5000000000000026A
+t1270849269
+s618
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+t1271023283
+s19784
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+t1271023283
+s21276
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+t1271025901
+s73756
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+t1270560227
+s16296
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+t1270560227
+s5944
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+t1271025902
+s272
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+t1271025902
+s102
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+t1271025901
+s51456
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+t1269561392
+s601
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/MainWindow.nib
+t1269210140
+s1707
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo
+t1269561392
+s8
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/icon.png
+t1269561392
+s418
+
+N/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/main.m4a
+t1270560225
+s783255
+
+N/Users/pepler/Dropbox/Dev/Baboom/icon.png
+c000000004BABF7EB00000000000001A2
+t1269561323
+s418
+
+N/Users/pepler/Dropbox/Dev/Baboom/main.m
+c000000004A0C6CA20000000000000187
+t1242328226
+s391
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Documents/Baboom/BaboomPrefix.pch
+c000000004A0C6CA200000000000000C3
+t1242328226
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.h
+c000000004BA40309000000000000010F
+t1269039881
+s271
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m
+c000000004BAA64390000000000000282
+t1269457977
+s642
+i"BaboomAppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Documents/Baboom/Classes/ConstantsAndMacros.h
+c000000004BA7EAFE000000000000032C
+t1269295870
+s812
+
+N/Volumes/pepler/Documents/Baboom/Classes/GLView.h
+c000000004BA404F900000000000002CB
+t1269040377
+s715
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Volumes/pepler/Documents/Baboom/Classes/GLView.m
+c000000004BAAA857000000000000102B
+t1269475415
+s4139
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Documents/Baboom/Classes/GLViewController.h
+c000000004BABF1FE000000000000039F
+t1269559806
+s927
+i<UIKit/UIKit.h>
+i"GLView.h"
+
+N/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m
+c000000004BABF64300000000000033EF
+t1269560899
+s13295
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Volumes/pepler/Documents/Baboom/Classes/OpenGLCommon.h
+c000000004BA405070000000000005B9E
+t1269040391
+s23454
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.h
+c000000004BA404FC000000000000018C
+t1269040380
+s396
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m
+c000000004BA405030000000000000C4A
+t1269040387
+s3146
+i"OpenGLTexture3D.h"
+
+N/Volumes/pepler/Documents/Baboom/MainWindow.xib
+c000000004BA4042C00000000000055BE
+t1269040172
+s21950
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList
+c000000004BABF82F0000000000000260
+t1269561391
+s608
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+t1269561397
+s19776
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+t1269561397
+s21356
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+t1269561397
+s65744
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+t1269561397
+s16296
+
+N/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+t1269561397
+s5944
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+t1269561399
+s264
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+t1269561399
+s264
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+t1269561398
+s49636
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+t1269561392
+s601
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/MainWindow.nib
+t1269210140
+s1707
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo
+t1269561392
+s8
+
+N/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/icon.png
+t1269561392
+s418
+
+N/Volumes/pepler/Documents/Baboom/icon.png
+c000000004BABF7EB00000000000001A2
+t1269561323
+s418
+
+N/Volumes/pepler/Documents/Baboom/main.m
+c000000004A0C6CA20000000000000187
+t1242328226
+s391
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch
+c000000004A0C6CA200000000000000C3
+t1242328226
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.h
+c000000004BA40309000000000000010F
+t1269039881
+s271
+i<UIKit/UIKit.h>
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m
+c000000004BAA64390000000000000282
+t1269457977
+s642
+i"BaboomAppDelegate.h"
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/ConstantsAndMacros.h
+c000000004BA7EAFE000000000000032C
+t1269295870
+s812
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.h
+c000000004BA404F900000000000002CB
+t1269040377
+s715
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m
+c000000004BABF8FB0000000000001028
+t1269561595
+s4136
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLView.h"
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.h
+c000000004BB92445000000000000042D
+t1270424645
+s1069
+i<UIKit/UIKit.h>
+i"GLView.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m
+c000000004BB926370000000000003937
+t1270425143
+s14647
+i"GLViewController.h"
+i"ConstantsAndMacros.h"
+i"OpenGLCommon.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLCommon.h
+c000000004BA405070000000000005B9E
+t1269040391
+s23454
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGL/OpenGL.h>
+i"ConstantsAndMacros.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.h
+c000000004BA404FC000000000000018C
+t1269040380
+s396
+i<Foundation/Foundation.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m
+c000000004BA405030000000000000C4A
+t1269040387
+s3146
+i"OpenGLTexture3D.h"
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/MainWindow.xib
+c000000004BA4042C00000000000055BE
+t1269040172
+s21950
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList
+c000000004BB91AA7000000000000026A
+t1270422183
+s618
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+t1270422186
+s19784
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+t1270422186
+s21364
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+t1270425150
+s67912
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+t1270422187
+s16300
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+t1270422186
+s5948
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+t1270425151
+s264
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+t1270425150
+s264
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+t1270425150
+s50072
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+t1269561392
+s601
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/MainWindow.nib
+t1269210140
+s1707
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo
+t1269561392
+s8
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/icon.png
+t1269561392
+s418
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/icon.png
+c000000004BABF7EB00000000000001A2
+t1269561323
+s418
+
+N/Volumes/pepler/Dropbox/Dev/Baboom/main.m
+c000000004A0C6CA20000000000000187
+t1242328226
+s391
+i<UIKit/UIKit.h>
+
+N/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch.gch
+t1269210142
+s13034960
+
+N/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-avgcbktoygopcigzgypufpzhsiks/BaboomPrefix.pch.gch
+t1269039962
+s12957072
+
+N/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch.gch
+t1270560227
+s13034960
+
+N/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-avgcbktoygopcigzgypufpzhsiks/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-gkwrvppofiligxgawvjffhacfysn/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch.gch
+t1270422185
+s13034960
+
+N/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch.gch
+t1269561396
+s13034960
+
+N/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-hfyyqqklbzmxrvfsuruovkvtdaub/BaboomPrefix.pch.gch
+t1269294875
+s12957072
+
+NInfo.plist
+c000000004BABF82D000000000000037F
+t1269561389
+s895
+
+N___PROJECTNAMEASIDENTIFIER___-Info.plist
+c000000004A0C6CA2000000000000038D
+t1242328226
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292492373#292492373#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o /Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291150777.809513
+e291150778.052567
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+x/Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m291150777#291150778#0(0"0(0#0#58"/Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m4300885448#1783"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch -c /Users/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m -o /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o /Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292342181.909730
+e292342182.117937
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+x/Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m292342181#292342182#0(0"0(0#0#60"/Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m4300885448#1805"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch -c /Users/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m -o /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o /Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254196.620346
+e291254197.123753
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+x/Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m291254196#291254197#0(0"0(0#0#60"/Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m4300885448#1805"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch -c /Volumes/pepler/Documents/Baboom/Classes/BaboomAppDelegate.m -o /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o /Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292114986.039321
+e292114986.496794
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o
+x/Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m292114986#292114986#0(0"0(0#0#62"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m4300885448#1827"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch -c /Volumes/pepler/Dropbox/Dev/Baboom/Classes/BaboomAppDelegate.m -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/BaboomAppDelegate.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o /Users/pepler/Documents/Baboom/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291168215.457809
+e291168215.750975
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+x/Users/pepler/Documents/Baboom/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pepler/Documents/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':
+o/Users/pepler/Documents/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)
+lSLF07#2@55"Compile /Users/pepler/Documents/Baboom/Classes/GLView.m291168215#291168215#0(187"/Users/pepler/Documents/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':/Users/pepler/Documents/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)1(22@36"'-setView:' not found in protocol(s)291168215#89#98#0(6@47"/Users/pepler/Documents/Baboom/Classes/GLView.m291168215#49#0#49#0#28"'*' not found in protocol(s)0(0#0#47"/Users/pepler/Documents/Baboom/Classes/GLView.m4300885448#1761"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch -c /Users/pepler/Documents/Baboom/Classes/GLView.m -o /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o /Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292370872.440376
+e292370872.706068
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+x/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)
+lSLF07#2@57"Compile /Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m292370872#292370872#0(191"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)1(22@36"'-setView:' not found in protocol(s)292370872#91#100#0(6@49"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m292370868#49#0#49#0#28"'*' not found in protocol(s)0(0#0#49"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m4300885448#1783"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch -c /Users/pepler/Dropbox/Dev/Baboom/Classes/GLView.m -o /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o /Volumes/pepler/Documents/Baboom/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254197.052796
+e291254197.517961
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+x/Volumes/pepler/Documents/Baboom/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/pepler/Documents/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':
+o/Volumes/pepler/Documents/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)
+lSLF07#2@57"Compile /Volumes/pepler/Documents/Baboom/Classes/GLView.m291254197#291254197#0(191"/Volumes/pepler/Documents/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':/Volumes/pepler/Documents/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)1(22@36"'-setView:' not found in protocol(s)291254197#91#100#0(6@49"/Volumes/pepler/Documents/Baboom/Classes/GLView.m291168215#49#0#49#0#28"'*' not found in protocol(s)0(0#0#49"/Volumes/pepler/Documents/Baboom/Classes/GLView.m4300885448#1783"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch -c /Volumes/pepler/Documents/Baboom/Classes/GLView.m -o /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292114986.351358
+e292114986.712518
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o
+x/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)
+lSLF07#2@59"Compile /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m292114986#292114986#0(195"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m: In function '-[GLView initWithCoder:]':/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m:49: warning: '-setView:' not found in protocol(s)1(22@36"'-setView:' not found in protocol(s)292114986#93#102#0(6@51"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m291254395#49#0#49#0#28"'*' not found in protocol(s)0(0#0#51"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m4300885448#1805"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch -c /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLView.m -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLView.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o /Users/pepler/Documents/Baboom/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291253049.011994
+e291253049.332473
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+x/Users/pepler/Documents/Baboom/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: (Messages without a matching method signature
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: will be assumed to return 'id' and accept
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: '...' as arguments.)
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:60: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:81: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:88: warning: 'UIView' may not respond to '-startAnimation'
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':
+o/Users/pepler/Documents/Baboom/Classes/GLViewController.m:457: warning: unused variable 'touch'
+lSLF07#2@65"Compile /Users/pepler/Documents/Baboom/Classes/GLViewController.m291253049#291253049#0(1231"/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: (Messages without a matching method signature/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: will be assumed to return 'id' and accept/Users/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: '...' as arguments.)/Users/pepler/Documents/Baboom/Classes/GLViewController.m:60: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Documents/Baboom/Classes/GLViewController.m:81: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':/Users/pepler/Documents/Baboom/Classes/GLViewController.m:88: warning: 'UIView' may not respond to '-startAnimation'/Users/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':/Users/pepler/Documents/Baboom/Classes/GLViewController.m:457: warning: unused variable 'touch'6(22@44"'UIView' may not respond to '-stopAnimation'291253049#104#116#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#50#0#50#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)291253049#220#117#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#50#0#50#0#0"0(22@44"'UIView' may not respond to '-stopAnimation'291253049#542#116#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#60#0#60#0#26"'*' may not respond to '*'0(22@44"'UIView' may not respond to '-stopAnimation'291253049#658#116#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#81#0#81#0#26"'*' may not respond to '*'0(22@45"'UIView' may not respond to '-startAnimation'291253049#900#117#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#88#0#88#0#26"'*' may not respond to '*'0(22@23"Unused variable 'touch'291253049#1135#96#0(6@57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m291253048#457#0#457#0#19"unused variable '*'0(0#0#57"/Users/pepler/Documents/Baboom/Classes/GLViewController.m4300885448#1781"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch -c /Users/pepler/Documents/Baboom/Classes/GLViewController.m -o /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o /Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292492373.550596
+e292492373.885551
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+x/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: (Messages without a matching method signature
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: will be assumed to return 'id' and accept
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: '...' as arguments.)
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:111: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:135: warning: 'UIView' may not respond to '-stopAnimation'
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:192: warning: 'UIView' may not respond to '-startAnimation'
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':
+o/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:586: warning: unused variable 'touch'
+lSLF07#2@67"Compile /Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#292492373#0(1260"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: (Messages without a matching method signature/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: will be assumed to return 'id' and accept/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:104: warning: '...' as arguments.)/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:111: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:135: warning: 'UIView' may not respond to '-stopAnimation'/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:192: warning: 'UIView' may not respond to '-startAnimation'/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:586: warning: unused variable 'touch'6(22@44"'UIView' may not respond to '-stopAnimation'292492373#106#119#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#104#0#104#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)292492373#225#120#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#104#0#104#0#0"0(22@44"'UIView' may not respond to '-stopAnimation'292492373#556#119#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#111#0#111#0#26"'*' may not respond to '*'0(22@44"'UIView' may not respond to '-stopAnimation'292492373#675#119#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#135#0#135#0#26"'*' may not respond to '*'0(22@45"'UIView' may not respond to '-startAnimation'292492373#922#120#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#192#0#192#0#26"'*' may not respond to '*'0(22@23"Unused variable 'touch'292492373#1162#98#0(6@59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292492373#586#0#586#0#19"unused variable '*'0(0#0#59"/Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m4300885448#1803"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch -c /Users/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m -o /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o /Volumes/pepler/Documents/Baboom/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254197.123886
+e291254197.794110
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+x/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: (Messages without a matching method signature
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: will be assumed to return 'id' and accept
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: '...' as arguments.)
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:60: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:81: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:88: warning: 'UIView' may not respond to '-startAnimation'
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':
+o/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:458: warning: unused variable 'touch'
+lSLF07#2@67"Compile /Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291254197#291254197#0(1253"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: (Messages without a matching method signature/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: will be assumed to return 'id' and accept/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:50: warning: '...' as arguments.)/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:60: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:81: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:88: warning: 'UIView' may not respond to '-startAnimation'/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m:458: warning: unused variable 'touch'6(22@44"'UIView' may not respond to '-stopAnimation'291254197#106#118#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#50#0#50#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)291254197#224#119#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#50#0#50#0#0"0(22@44"'UIView' may not respond to '-stopAnimation'291254197#552#118#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#60#0#60#0#26"'*' may not respond to '*'0(22@44"'UIView' may not respond to '-stopAnimation'291254197#670#118#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#81#0#81#0#26"'*' may not respond to '*'0(22@45"'UIView' may not respond to '-startAnimation'291254197#916#119#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#88#0#88#0#26"'*' may not respond to '*'0(22@23"Unused variable 'touch'291254197#1155#98#0(6@59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m291253699#458#0#458#0#19"unused variable '*'0(0#0#59"/Volumes/pepler/Documents/Baboom/Classes/GLViewController.m4300885448#1803"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch -c /Volumes/pepler/Documents/Baboom/Classes/GLViewController.m -o /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292117949.940036
+e292117950.409244
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o
+x/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: (Messages without a matching method signature
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: will be assumed to return 'id' and accept
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: '...' as arguments.)
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:85: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:110: warning: 'UIView' may not respond to '-stopAnimation'
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:142: warning: 'UIView' may not respond to '-startAnimation'
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':
+o/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:530: warning: unused variable 'touch'
+lSLF07#2@69"Compile /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117949#292117950#0(1277"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController drawView:]':/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: (Messages without a matching method signature/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: will be assumed to return 'id' and accept/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:74: warning: '...' as arguments.)/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:85: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:110: warning: 'UIView' may not respond to '-stopAnimation'/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController alertView:clickedButtonAtIndex:]':/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:142: warning: 'UIView' may not respond to '-startAnimation'/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m: In function '-[GLViewController touchesBegan:withEvent:]':/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m:530: warning: unused variable 'touch'6(22@44"'UIView' may not respond to '-stopAnimation'292117950#108#120#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#74#0#74#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)292117950#228#121#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#74#0#74#0#0"0(22@44"'UIView' may not respond to '-stopAnimation'292117950#562#120#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#85#0#85#0#26"'*' may not respond to '*'0(22@44"'UIView' may not respond to '-stopAnimation'292117950#682#121#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#110#0#110#0#26"'*' may not respond to '*'0(22@45"'UIView' may not respond to '-startAnimation'292117950#933#122#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#142#0#142#0#26"'*' may not respond to '*'0(22@23"Unused variable 'touch'292117950#1177#100#0(6@61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m292117943#530#0#530#0#19"unused variable '*'0(0#0#61"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m4300885448#1825"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch -c /Volumes/pepler/Dropbox/Dev/Baboom/Classes/GLViewController.m -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/GLViewController.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o /Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290902943.013434
+e290902943.124586
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m290902943#290902943#0(0"0(0#0#56"/Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m4300885448#1779"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch -c /Users/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m -o /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o /Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292253027.858055
+e292253027.993579
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m292253027#292253028#0(0"0(0#0#58"/Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m4300885448#1801"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch -c /Users/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m -o /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o /Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254197.518101
+e291254197.856098
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m291254197#291254197#0(0"0(0#0#58"/Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m4300885448#1801"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch -c /Volumes/pepler/Documents/Baboom/Classes/OpenGLTexture3D.m -o /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o /Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292114986.712632
+e292114987.186572
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o
+x/Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m292114986#292114987#0(0"0(0#0#60"/Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m4300885448#1823"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch -c /Volumes/pepler/Dropbox/Dev/Baboom/Classes/OpenGLTexture3D.m -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/OpenGLTexture3D.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/___PROJECTNAMEASIDENTIFIER___AppDelegate.o /Users/pepler/Documents/Baboom/Classes/___PROJECTNAMEASIDENTIFIER___AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o /Users/pepler/Documents/Baboom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290902942.744427
+e290902942.923204
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+x/Users/pepler/Documents/Baboom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/pepler/Documents/Baboom/main.m290902942#290902942#0(0"0(0#0#37"/Users/pepler/Documents/Baboom/main.m4300885448#1749"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch -c /Users/pepler/Documents/Baboom/main.m -o /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o /Users/pepler/Dropbox/Dev/Baboom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292253027.295013
+e292253027.554459
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+x/Users/pepler/Dropbox/Dev/Baboom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/pepler/Dropbox/Dev/Baboom/main.m292253027#292253027#0(0"0(0#0#39"/Users/pepler/Dropbox/Dev/Baboom/main.m4300885448#1771"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch -c /Users/pepler/Dropbox/Dev/Baboom/main.m -o /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o /Volumes/pepler/Documents/Baboom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254196.616182
+e291254197.052682
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+x/Volumes/pepler/Documents/Baboom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Volumes/pepler/Documents/Baboom/main.m291254196#291254197#0(0"0(0#0#39"/Volumes/pepler/Documents/Baboom/main.m4300885448#1771"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch -c /Volumes/pepler/Documents/Baboom/main.m -o /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o /Volumes/pepler/Dropbox/Dev/Baboom/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292114986.034387
+e292114986.351246
+r1
+xCompileC
+xbuild/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o
+x/Volumes/pepler/Dropbox/Dev/Baboom/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Volumes/pepler/Dropbox/Dev/Baboom/main.m292114986#292114986#0(0"0(0#0#41"/Volumes/pepler/Dropbox/Dev/Baboom/main.m4300885448#1793"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -include /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch -c /Volumes/pepler/Dropbox/Dev/Baboom/main.m -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pepler/Documents/Baboom/MainWindow.xib
+s290902938.266665
+e290902941.188387
+r1
+xCompileXIB
+x/Users/pepler/Documents/Baboom/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290902938#290902941#0(0"0(0#0#45"/Users/pepler/Documents/Baboom/MainWindow.xib4300885448#457"    cd /Users/pepler/Documents/Baboom    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/MainWindow.nib /Users/pepler/Documents/Baboom/MainWindow.xib0#
+
+CCompileXIB /Users/pepler/Dropbox/Dev/Baboom/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/pepler/Documents/Baboom/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/pepler/Dropbox/Dev/Baboom/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/Baboom.app/icon.png icon.png
+s291254192.752606
+e291254192.893217
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Baboom.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png291254192#291254192#0(0"0(0#0#41"/Volumes/pepler/Documents/Baboom/icon.png4300885448#433"    cd /Volumes/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/pepler/Documents/Baboom/icon.png /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
+CCpResource build/Debug-iphonesimulator/Baboom.app/main.m4a Sound/main.m4a
+s292253025.036653
+e292253025.292449
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Baboom.app/main.m4a
+xSound/main.m4a
+lSLF07#2@19"Copy Sound/main.m4a292253025#292253025#0(0"0(0#0#47"/Users/pepler/Dropbox/Dev/Baboom/Sound/main.m4a32651513917341812#439"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pepler/Dropbox/Dev/Baboom/Sound/main.m4a /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
+CGenerateDSYMFile /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+s291253049.354344
+e291253049.368979
+r1
+xGenerateDSYMFile
+x/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+x/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Baboom.app.dSYM build/Debug-iphonesimulator/Baboom.app/Baboom291253049#291253049#0(0"0(0#0#76"/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom4300885448#356"    cd /Users/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom -o /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM0#
+
+CGenerateDSYMFile /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+s292492373.910073
+e292492373.939527
+r1
+xGenerateDSYMFile
+x/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+x/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Baboom.app.dSYM build/Debug-iphonesimulator/Baboom.app/Baboom292492373#292492373#0(0"0(0#0#78"/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom4300885448#362"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom -o /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM0#
+
+CGenerateDSYMFile /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+s291254198.790465
+e291254199.212586
+r1
+xGenerateDSYMFile
+x/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+x/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Baboom.app.dSYM build/Debug-iphonesimulator/Baboom.app/Baboom291254198#291254199#0(0"0(0#0#78"/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom4300885448#362"    cd /Volumes/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom -o /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM0#
+
+CGenerateDSYMFile /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+s292117950.726945
+e292117951.128727
+r1
+xGenerateDSYMFile
+x/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM
+x/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Baboom.app.dSYM build/Debug-iphonesimulator/Baboom.app/Baboom292117950#292117951#0(0"0(0#0#80"/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom4300885448#368"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app.dSYM0#
+
+CLd /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom normal i386
+s291253049.332559
+e291253049.354248
+r1
+xLd
+x/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+xnormal
+xi386
+lSLF07#2@81"Link /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom291253049#291253049#0(0"0(0#0#0"4300885448#861"    cd /Users/pepler/Documents/Baboom    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -filelist /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom0#
+
+CLd /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom normal i386
+s292492373.885642
+e292492373.909855
+r1
+xLd
+x/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+xnormal
+xi386
+lSLF07#2@83"Link /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom292492373#292492373#0(0"0(0#0#0"4300885448#895"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -filelist /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -framework AVFoundation -o /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom0#
+
+CLd /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom normal i386
+s291254197.856216
+e291254198.790187
+r1
+xLd
+x/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+xnormal
+xi386
+lSLF07#2@83"Link /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom291254197#291254198#0(0"0(0#0#0"4300885448#871"    cd /Volumes/pepler/Documents/Baboom    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -filelist /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom0#
+
+CLd /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom normal i386
+s292117950.409340
+e292117950.726839
+r1
+xLd
+x/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom
+xnormal
+xi386
+lSLF07#2@85"Link /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom292117950#292117950#0(0"0(0#0#0"4300885448#881"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -filelist /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Objects-normal/i386/Baboom.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Baboom0#
+
+CProcessInfoPlistFile /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist Info.plist
+s290732711.583496
+e290732711.587534
+r1
+xProcessInfoPlistFile
+x/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist290732711#290732711#0(0"0(0#0#41"/Users/pepler/Documents/Baboom/Info.plist4300885448#445"    cd /Users/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist ___PROJECTNAMEASIDENTIFIER___-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist Info.plist
+s291254192.566756
+e291254192.752444
+r1
+xProcessInfoPlistFile
+x/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist291254192#291254192#0(0"0(0#0#43"/Volumes/pepler/Documents/Baboom/Info.plist28429445101453416#451"    cd /Volumes/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist0#
+
+CProcessInfoPlistFile /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290902941.188579
+e290902942.744241
+r1
+xProcessPCH
+x/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch290902941#290902942#0(0"0(0#0#47"/Users/pepler/Documents/Baboom/BaboomPrefix.pch4300885448#1649"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Users/pepler/Documents/Baboom/BaboomPrefix.pch -o /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-adziubnkajmmgweovpgizcndssuy/BaboomPrefix.pch.gch0#
+
+CProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-avgcbktoygopcigzgypufpzhsiks/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290732760.993786
+e290732763.220743
+r1
+xProcessPCH
+x/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-avgcbktoygopcigzgypufpzhsiks/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch290732760#290732763#0(0"0(0#0#47"/Users/pepler/Documents/Baboom/BaboomPrefix.pch4300885448#1647"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Users/pepler/Documents/Baboom/BaboomPrefix.pch -o /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-avgcbktoygopcigzgypufpzhsiks/BaboomPrefix.pch.gch0#
+
+CProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292253025.292593
+e292253027.294808
+r1
+xProcessPCH
+x/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch292253025#292253027#0(0"0(0#0#49"/Users/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch4300885448#1669"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Users/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch -o /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-bmadkmflnoryzmbtadmeahzrcstu/BaboomPrefix.pch.gch0#
+
+CProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-avgcbktoygopcigzgypufpzhsiks/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch ___PROJECTNAMEASIDENTIFIER____Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-gkwrvppofiligxgawvjffhacfysn/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch ___PROJECTNAMEASIDENTIFIER____Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290732712.995905
+e290732713.074656
+r0
+xProcessPCH
+x/var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-gkwrvppofiligxgawvjffhacfysn/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch
+x___PROJECTNAMEASIDENTIFIER____Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/pepler/Documents/Baboom/___PROJECTNAMEASIDENTIFIER____Prefix.pch: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@51"Precompile ___PROJECTNAMEASIDENTIFIER____Prefix.pch290732712#290732713#0(380"i686-apple-darwin10-gcc-4.2.1: /Users/pepler/Documents/Baboom/___PROJECTNAMEASIDENTIFIER____Prefix.pch: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c-header' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1290732713#18446744073709551615#0#0(1@0"0(0#0#71"/Users/pepler/Documents/Baboom/___PROJECTNAMEASIDENTIFIER____Prefix.pch4300885448#1719"    cd /Users/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Users/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Users/pepler/Documents/Baboom/___PROJECTNAMEASIDENTIFIER____Prefix.pch -o /var/folders/Ov/OvAb-rKDH1mWO6UytboDD++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/___PROJECTNAMEASIDENTIFIER____Prefix-gkwrvppofiligxgawvjffhacfysn/___PROJECTNAMEASIDENTIFIER____Prefix.pch.gch1#
+
+CProcessPCH /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292114983.414469
+e292114986.034135
+r1
+xProcessPCH
+x/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch292114983#292114986#0(0"0(0#0#51"/Volumes/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch4300885448#1689"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Dropbox/Dev/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Volumes/pepler/Dropbox/Dev/Baboom/BaboomPrefix.pch -o /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cmixpelrimkxlfbwagwrzutvpres/BaboomPrefix.pch.gch0#
+
+CProcessPCH /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291254192.893385
+e291254196.615894
+r1
+xProcessPCH
+x/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch291254192#291254196#0(0"0(0#0#49"/Volumes/pepler/Documents/Baboom/BaboomPrefix.pch4300885448#1669"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Volumes/pepler/Documents/Baboom/BaboomPrefix.pch -o /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-cvnzkexwzvmahldfkwkctsxjqldy/BaboomPrefix.pch.gch0#
+
+CProcessPCH /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-hfyyqqklbzmxrvfsuruovkvtdaub/BaboomPrefix.pch.gch BaboomPrefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290987674.281758
+e290987675.669962
+r1
+xProcessPCH
+x/var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-hfyyqqklbzmxrvfsuruovkvtdaub/BaboomPrefix.pch.gch
+xBaboomPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile BaboomPrefix.pch290987674#290987675#0(0"0(0#0#49"/Volumes/pepler/Documents/Baboom/BaboomPrefix.pch4300885448#1667"    cd /Volumes/pepler/Documents/Baboom    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-generated-files.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-own-target-headers.hmap -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-all-target-headers.hmap -iquote /Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/Baboom-project-headers.hmap -F/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator -I/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/include -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources/i386 -I/Volumes/pepler/Documents/Baboom/build/Baboom.build/Debug-iphonesimulator/Baboom.build/DerivedSources -c /Volumes/pepler/Documents/Baboom/BaboomPrefix.pch -o /var/folders/pn/pnSBlHqhGNejlIwUpG77cU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BaboomPrefix-hfyyqqklbzmxrvfsuruovkvtdaub/BaboomPrefix.pch.gch0#
+
+CTouch /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+s291253049.369063
+e291253049.371694
+r1
+xTouch
+x/Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+lSLF07#2@75"Touch /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app291253049#291253049#0(0"0(0#0#0"4300885448#261"    cd /Users/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
+CTouch /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+s292492373.939617
+e292492373.943596
+r1
+xTouch
+x/Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+lSLF07#2@77"Touch /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app292492373#292492373#0(0"0(0#0#0"4300885448#265"    cd /Users/pepler/Dropbox/Dev/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
+CTouch /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+s291254199.212697
+e291254199.267397
+r1
+xTouch
+x/Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app
+lSLF07#2@77"Touch /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app291254199#291254199#0(0"0(0#0#0"4300885448#265"    cd /Volumes/pepler/Documents/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/pepler/Documents/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
+CTouch /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+s292117951.128825
+e292117951.137159
+r1
+xTouch
+x/Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app
+lSLF07#2@79"Touch /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app292117951#292117951#0(0"0(0#0#0"4300885448#269"    cd /Volumes/pepler/Dropbox/Dev/Baboom    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/pepler/Dropbox/Dev/Baboom/build/Debug-iphonesimulator/Baboom.app0#
+
